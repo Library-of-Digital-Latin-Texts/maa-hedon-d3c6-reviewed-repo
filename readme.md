@@ -14,3 +14,10 @@ This edition is published under the authority of [The University of Oklahoma](ht
 
 For more details on the peer review registry, see <https://dll-review-registry.digitallatin.org/>.
 
+---
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/224249098.svg)](https://zenodo.org/badge/latestdoi/224249098)
+
