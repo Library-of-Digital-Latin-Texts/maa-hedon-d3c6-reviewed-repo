@@ -2,7 +2,8 @@
 
 The files in this repository contain the data for a critical edition of William of Hedon's *Tractatus de anima distinctio* 3, chapter 6.
 
-The Scholastic Commentaries and Texts Archive provides an environment for reading and interacting with the data at https://scta.lombardpress.org/#/text?resourceid=http://scta.info/resource/da-3-d3c6.
+The Scholastic Commentaries and Texts Archive provides an environment for reading and interacting with 
+the data at <https://scta.lombardpress.org/text?resourceid=http://scta.info/resource/da-3-d3c6>.
 
 ## Publication Details
 
